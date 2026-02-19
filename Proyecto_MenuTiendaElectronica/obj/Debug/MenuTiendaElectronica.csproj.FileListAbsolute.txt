@@ -1,0 +1,31 @@
+C:\Users\nohem\Documents\UNAH clases\2025\2 Periodo 2025\Lenguaje 3\ProyectosClase\MenuTiendaElectronica\bin\Debug\MenuTiendaElectronica.exe.config
+C:\Users\nohem\Documents\UNAH clases\2025\2 Periodo 2025\Lenguaje 3\ProyectosClase\MenuTiendaElectronica\bin\Debug\MenuTiendaElectronica.exe
+C:\Users\nohem\Documents\UNAH clases\2025\2 Periodo 2025\Lenguaje 3\ProyectosClase\MenuTiendaElectronica\bin\Debug\MenuTiendaElectronica.pdb
+C:\Users\nohem\Documents\UNAH clases\2025\2 Periodo 2025\Lenguaje 3\ProyectosClase\MenuTiendaElectronica\obj\Debug\MenuTiendaElectronica.csproj.AssemblyReference.cache
+C:\Users\nohem\Documents\UNAH clases\2025\2 Periodo 2025\Lenguaje 3\ProyectosClase\MenuTiendaElectronica\obj\Debug\MenuTiendaElectronica.Properties.Resources.resources
+C:\Users\nohem\Documents\UNAH clases\2025\2 Periodo 2025\Lenguaje 3\ProyectosClase\MenuTiendaElectronica\obj\Debug\MenuTiendaElectronica.STMTiendaElectronica.resources
+C:\Users\nohem\Documents\UNAH clases\2025\2 Periodo 2025\Lenguaje 3\ProyectosClase\MenuTiendaElectronica\obj\Debug\MenuTiendaElectronica.csproj.GenerateResource.cache
+C:\Users\nohem\Documents\UNAH clases\2025\2 Periodo 2025\Lenguaje 3\ProyectosClase\MenuTiendaElectronica\obj\Debug\MenuTiendaElectronica.csproj.CoreCompileInputs.cache
+C:\Users\nohem\Documents\UNAH clases\2025\2 Periodo 2025\Lenguaje 3\ProyectosClase\MenuTiendaElectronica\obj\Debug\MenuTiendaElectronica.exe
+C:\Users\nohem\Documents\UNAH clases\2025\2 Periodo 2025\Lenguaje 3\ProyectosClase\MenuTiendaElectronica\obj\Debug\MenuTiendaElectronica.pdb
+C:\Users\nohem\Documents\UNAH clases\2025\2 Periodo 2025\Lenguaje 3\ProyectosClase\MenuTiendaElectronica\obj\Debug\MenuTiendaElectronica.exe.config
+C:\Users\nohem\Documents\UNAH clases\2025\2 Periodo 2025\Lenguaje 3\ProyectosClase\MenuTiendaElectronica\obj\Debug\MenuTiendaElectronica.FrmCategoria.resources
+C:\Users\nohem\Documents\UNAH clases\2025\2 Periodo 2025\Lenguaje 3\ProyectosClase\MenuTiendaElectronica\obj\Debug\MenuTiendaElectronica.FrmProducto.resources
+C:\Users\nohem\Documents\UNAH clases\2025\2 Periodo 2025\Lenguaje 3\ProyectosClase\MenuTiendaElectronica\obj\Debug\MenuTiendaElectronica.FrmProveedor.resources
+C:\Users\nohem\Documents\UNAH clases\2025\2 Periodo 2025\Lenguaje 3\ProyectosClase\MenuTiendaElectronica\obj\Debug\MenuTiendaElectronica.FrmTipoTransaccion.resources
+C:\Users\nohem\Documents\UNAH clases\2025\2 Periodo 2025\Lenguaje 3\ProyectosClase\2 Parcial\MenuTiendaElectronica\bin\Debug\MenuTiendaElectronica.exe.config
+C:\Users\nohem\Documents\UNAH clases\2025\2 Periodo 2025\Lenguaje 3\ProyectosClase\2 Parcial\MenuTiendaElectronica\bin\Debug\MenuTiendaElectronica.exe
+C:\Users\nohem\Documents\UNAH clases\2025\2 Periodo 2025\Lenguaje 3\ProyectosClase\2 Parcial\MenuTiendaElectronica\bin\Debug\MenuTiendaElectronica.pdb
+C:\Users\nohem\Documents\UNAH clases\2025\2 Periodo 2025\Lenguaje 3\ProyectosClase\2 Parcial\MenuTiendaElectronica\obj\Debug\MenuTiendaElectronica.csproj.AssemblyReference.cache
+C:\Users\nohem\Documents\UNAH clases\2025\2 Periodo 2025\Lenguaje 3\ProyectosClase\2 Parcial\MenuTiendaElectronica\obj\Debug\MenuTiendaElectronica.exe.config
+C:\Users\nohem\Documents\UNAH clases\2025\2 Periodo 2025\Lenguaje 3\ProyectosClase\2 Parcial\MenuTiendaElectronica\obj\Debug\MenuTiendaElectronica.FrmCategoria.resources
+C:\Users\nohem\Documents\UNAH clases\2025\2 Periodo 2025\Lenguaje 3\ProyectosClase\2 Parcial\MenuTiendaElectronica\obj\Debug\MenuTiendaElectronica.FrmProducto.resources
+C:\Users\nohem\Documents\UNAH clases\2025\2 Periodo 2025\Lenguaje 3\ProyectosClase\2 Parcial\MenuTiendaElectronica\obj\Debug\MenuTiendaElectronica.FrmProveedor.resources
+C:\Users\nohem\Documents\UNAH clases\2025\2 Periodo 2025\Lenguaje 3\ProyectosClase\2 Parcial\MenuTiendaElectronica\obj\Debug\MenuTiendaElectronica.FrmTipoTransaccion.resources
+C:\Users\nohem\Documents\UNAH clases\2025\2 Periodo 2025\Lenguaje 3\ProyectosClase\2 Parcial\MenuTiendaElectronica\obj\Debug\MenuTiendaElectronica.Properties.Resources.resources
+C:\Users\nohem\Documents\UNAH clases\2025\2 Periodo 2025\Lenguaje 3\ProyectosClase\2 Parcial\MenuTiendaElectronica\obj\Debug\MenuTiendaElectronica.STMTiendaElectronica.resources
+C:\Users\nohem\Documents\UNAH clases\2025\2 Periodo 2025\Lenguaje 3\ProyectosClase\2 Parcial\MenuTiendaElectronica\obj\Debug\MenuTiendaElectronica.csproj.GenerateResource.cache
+C:\Users\nohem\Documents\UNAH clases\2025\2 Periodo 2025\Lenguaje 3\ProyectosClase\2 Parcial\MenuTiendaElectronica\obj\Debug\MenuTiendaElectronica.csproj.CoreCompileInputs.cache
+C:\Users\nohem\Documents\UNAH clases\2025\2 Periodo 2025\Lenguaje 3\ProyectosClase\2 Parcial\MenuTiendaElectronica\obj\Debug\MenuTiendaElectronica.exe
+C:\Users\nohem\Documents\UNAH clases\2025\2 Periodo 2025\Lenguaje 3\ProyectosClase\2 Parcial\MenuTiendaElectronica\obj\Debug\MenuTiendaElectronica.pdb
+C:\Users\nohem\Documents\UNAH clases\2025\2 Periodo 2025\Lenguaje 3\ProyectosClase\2 Parcial\MenuTiendaElectronica\obj\Debug\MenuTiendaElectronica.FrmTransacciones.resources
